@@ -1,0 +1,15 @@
+company_id,val_id,edge_typ,node_typ
+Q106689581,Q837171,INDUSTRY,Industry
+Q407556,Q3929,HEADQUARTERS,Location
+Q106689581,Q145,RESIDES_IN,Location
+Q407556,Q1027,RESIDES_IN,Location
+Q106689581,4_employee_count,EMPLOYEE_COUNT_BAND,Quant_Metric
+Q407556,4_employee_count,EMPLOYEE_COUNT_BAND,Quant_Metric
+Q106689581,4_profit,PROFIT_BAND,Quant_Metric
+Q407556,4_profit,PROFIT_BAND,Quant_Metric
+Q106689581,4_assets,ASSETS_BAND,Quant_Metric
+Q407556,4_assets,ASSETS_BAND,Quant_Metric
+Q106689581,4_equity,EQUITY_BAND,Quant_Metric
+Q407556,4_equity,EQUITY_BAND,Quant_Metric
+Q106689581,4_market_cap,MARKET_CAP_BAND,Quant_Metric
+Q407556,4_market_cap,MARKET_CAP_BAND,Quant_Metric

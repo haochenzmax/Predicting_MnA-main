@@ -1,0 +1,13 @@
+,company.type,company.value,owner.type,owner.value,acquiredate.datatype,acquiredate.type,acquiredate.value
+0,uri,http://www.wikidata.org/entity/Q61971936,uri,http://www.wikidata.org/entity/Q55613979,http://www.w3.org/2001/XMLSchema#dateTime,literal,2020-07-01T00:00:00Z
+1,uri,http://www.wikidata.org/entity/Q460373,uri,http://www.wikidata.org/entity/Q212304,,,
+2,uri,http://www.wikidata.org/entity/Q686585,uri,http://www.wikidata.org/entity/Q4115940,,,
+3,uri,http://www.wikidata.org/entity/Q4120269,uri,http://www.wikidata.org/entity/Q543449,,,
+4,uri,http://www.wikidata.org/entity/Q12213830,uri,http://www.wikidata.org/entity/Q3174592,,,
+5,uri,http://www.wikidata.org/entity/Q17069901,uri,http://www.wikidata.org/entity/Q3174592,,,
+6,uri,http://www.wikidata.org/entity/Q62939,uri,http://www.wikidata.org/entity/Q1331200,,,
+7,uri,http://www.wikidata.org/entity/Q108864321,uri,http://www.wikidata.org/entity/Q5310582,,,
+8,uri,http://www.wikidata.org/entity/Q108857582,uri,http://www.wikidata.org/entity/Q108857496,,,
+9,uri,http://www.wikidata.org/entity/Q114891288,uri,http://www.wikidata.org/entity/Q108857496,,,
+10,uri,http://www.wikidata.org/entity/Q5369234,uri,http://www.wikidata.org/entity/Q5310582,,,
+11,uri,http://www.wikidata.org/entity/Q17521121,uri,http://www.wikidata.org/entity/Q5310582,,,
