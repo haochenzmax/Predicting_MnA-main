@@ -32,7 +32,6 @@ Q17061030,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q60183335,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3323637,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3273241,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q17061030,Q126793,INDUSTRY,Industry
 Q28404980,Q12752882,INDUSTRY,Industry
 Q48780935,Q25245117,INDUSTRY,Industry
@@ -60,7 +59,6 @@ Q17061030,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q106155702,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q28404980,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q48780935,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q387901,Q3579,HEADQUARTERS,Location
 Q24707852,Q3579,HEADQUARTERS,Location
 Q24707852, Q233,HEADQUARTERS,Location
@@ -76,7 +74,6 @@ Q387901,4_equity,EQUITY_BAND,Quant_Metric
 Q24707852,4_equity,EQUITY_BAND,Quant_Metric
 Q387901,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q24707852,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q106689581,Q837171,INDUSTRY,Industry
 Q407556,Q3929,HEADQUARTERS,Location
 Q106689581,Q145,RESIDES_IN,Location
@@ -91,7 +88,6 @@ Q106689581,4_equity,EQUITY_BAND,Quant_Metric
 Q407556,4_equity,EQUITY_BAND,Quant_Metric
 Q106689581,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q407556,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q110969032,Q1540863,INDUSTRY,Industry
 Q110969032, Q1323528,INDUSTRY,Industry
 Q110969032, Q1058914,INDUSTRY,Industry
@@ -351,7 +347,6 @@ Q18384641,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q73139954,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114853598,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q866103,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q104522362,Q56611700,INDUSTRY,Industry
 Q104522362, Q21157865,INDUSTRY,Industry
 Q104522362, Q880371,INDUSTRY,Industry
@@ -819,7 +814,6 @@ Q7537673,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q48803445,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q110916091,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7738431,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7098598,Q837171,INDUSTRY,Industry
 Q7598001,Q837171,INDUSTRY,Industry
 Q7598202,Q837171,INDUSTRY,Industry
@@ -1020,7 +1014,6 @@ Q15917578,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q18387190,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7845759,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q97781970,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q18708932,Q11030,INDUSTRY,Industry
 Q17061030,Q126793,INDUSTRY,Industry
 Q17061030,Q59750463,CEO,Person
@@ -1061,7 +1054,6 @@ Q3488511,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q111209118,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q37873776,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q105977461,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q4783148,Q1963,HEADQUARTERS,Location
 Q7370229,Q1519,HEADQUARTERS,Location
 Q4783148,Q1049,RESIDES_IN,Location
@@ -1082,7 +1074,6 @@ Q12183740,4_equity,EQUITY_BAND,Quant_Metric
 Q4783148,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7370229,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12183740,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q18358469,Q20514253,INDUSTRY,Industry
 Q17061030,Q126793,INDUSTRY,Industry
 Q5384664,Q22687,INDUSTRY,Industry
@@ -1254,7 +1245,6 @@ Q1768677,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q43897916,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q104833099,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114570065,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q5403583,Q56598901,INDUSTRY,Industry
 Q5403583, Q25245117,INDUSTRY,Industry
 Q112152570,Q941594,INDUSTRY,Industry
@@ -1312,7 +1302,6 @@ Q112152570,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1276270,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q107155267,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1967889,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q30271968,Q177777,INDUSTRY,Industry
 Q5555373,Q11033,INDUSTRY,Industry
 Q110928553,Q24962704,INDUSTRY,Industry
@@ -1462,7 +1451,6 @@ Q112259763,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q110677522,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5446778,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q30688745,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q45320665,Q112165968,INDUSTRY,Industry
 Q96250806,Q112165927,INDUSTRY,Industry
 Q107098493,Q112165834,INDUSTRY,Industry
@@ -6589,7 +6577,6 @@ Q1431486,2_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q49053,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q154037,9_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1475312,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q746639,Q100252087,INDUSTRY,Industry
 Q16985599,Q15067276,INDUSTRY,Industry
 Q608845,Q171141,INDUSTRY,Industry
@@ -19787,7 +19774,6 @@ Q154950,9_equity,EQUITY_BAND,Quant_Metric
 Q821293,1_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q122141,2_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q190464,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q80340275,Q5358497,INDUSTRY,Industry
 Q109422605,Q941594,INDUSTRY,Industry
 Q48937899,Q97486561,INDUSTRY,Industry
@@ -20634,7 +20620,6 @@ Q1359568,3_equity,EQUITY_BAND,Quant_Metric
 Q860580,1_equity,EQUITY_BAND,Quant_Metric
 Q26463,9_equity,EQUITY_BAND,Quant_Metric
 Q1359568,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q746413,Q3972943,INDUSTRY,Industry
 Q1579222,Q862571,INDUSTRY,Industry
 Q3109033,Q184452,INDUSTRY,Industry
@@ -23495,7 +23480,6 @@ Q69524613,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q63723953,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q10396541,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q108945355,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q32038645,Q941594,INDUSTRY,Industry
 Q28163354,Q171495,INDUSTRY,Industry
 Q17103499,Q870895,INDUSTRY,Industry
@@ -26239,7 +26223,6 @@ Q2331913,1_equity,EQUITY_BAND,Quant_Metric
 Q1141267,9_equity,EQUITY_BAND,Quant_Metric
 Q502121,1_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1141267,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q1041890,Q126793,INDUSTRY,Industry
 Q700466,Q5358497,INDUSTRY,Industry
 Q5618753,Q941594,INDUSTRY,Industry
@@ -31526,7 +31509,6 @@ Q41187,1_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2744340,6_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7499501,6_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q207784,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q138133,Q1341477,INDUSTRY,Industry
 Q138133, Q1326594,INDUSTRY,Industry
 Q138133, Q2151621,INDUSTRY,Industry
@@ -38188,7 +38170,6 @@ Q163241,2_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q9396,5_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q157645,2_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q66048,1_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7000460,Q178512,INDUSTRY,Industry
 Q511031,Q4063722,INDUSTRY,Industry
 Q511031, Q2151621,INDUSTRY,Industry
@@ -39255,7 +39236,6 @@ Q7885253,4_equity,EQUITY_BAND,Quant_Metric
 Q23979144,4_equity,EQUITY_BAND,Quant_Metric
 Q1603114,4_equity,EQUITY_BAND,Quant_Metric
 Q1776022,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q62562792,Q13107184,INDUSTRY,Industry
 Q913580,Q1301371,INDUSTRY,Industry
 Q6514414,Q126793,INDUSTRY,Industry
@@ -39452,7 +39432,6 @@ Q110783691,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q61121615,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q16822050,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1807088,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q13538661,Q837171,INDUSTRY,Industry
 Q13538661, Q806718,INDUSTRY,Industry
 Q1368761,Q21328659,INDUSTRY,Industry
@@ -39767,7 +39746,6 @@ Q15966341,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12763551,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q31392,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q108106650,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q13630969,Q2234623,INDUSTRY,Industry
 Q857063,Q1416657,INDUSTRY,Industry
 Q857063, Q837171,INDUSTRY,Industry
@@ -40311,7 +40289,6 @@ Q796927,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q54307207,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q806161,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7283806,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q85614408,Q622934,INDUSTRY,Industry
 Q63213940,Q17200001,INDUSTRY,Industry
 Q66133376,Q126793,INDUSTRY,Industry
@@ -40718,7 +40695,6 @@ Q12287911,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12298056,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1034634,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q108113024,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7334368,Q190117,INDUSTRY,Industry
 Q3040168,Q1193236,INDUSTRY,Industry
 Q106775805,Q941594,INDUSTRY,Industry
@@ -41027,7 +41003,6 @@ Q5428923,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q241622,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q106866275,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q904388,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q106219885,Q16319025,INDUSTRY,Industry
 Q1069105,Q7590,INDUSTRY,Industry
 Q1417227,Q862571,INDUSTRY,Industry
@@ -41142,7 +41117,6 @@ Q2649626,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q25485074,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q21843640,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q406828,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q28405991,Q941594,INDUSTRY,Industry
 Q52021004,Q941594,INDUSTRY,Industry
 Q109315111,Q43015,INDUSTRY,Industry
@@ -41192,7 +41166,6 @@ Q80582392,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q52021004,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q108419827,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q109315111,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q18712406,Q484847,INDUSTRY,Industry
 Q512468,Q96472425,INDUSTRY,Industry
 Q512468, Q2516512,INDUSTRY,Industry
@@ -42343,7 +42316,6 @@ Q6127803,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q17585104,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12506012,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7415523,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q1201656,Q721830,INDUSTRY,Industry
 Q746413,Q3972943,INDUSTRY,Industry
 Q17103499,Q870895,INDUSTRY,Industry
@@ -43037,7 +43009,6 @@ Q109276104,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q905998,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q104523579,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7565777,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q3337704,Q25245117,INDUSTRY,Industry
 Q17061030,Q126793,INDUSTRY,Industry
 Q1162323,Q56611639,INDUSTRY,Industry
@@ -43172,7 +43143,6 @@ Q3551640,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1090717,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2931752,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3148108,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q18635302,Q56598901,INDUSTRY,Industry
 Q18635302, Q25245117,INDUSTRY,Industry
 Q7904565,Q269,HEADQUARTERS,Location
@@ -43203,7 +43173,6 @@ Q7904565,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q109930540,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q110120894,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q18635302,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q662845,Q11707,INDUSTRY,Industry
 Q138133,Q2151621,INDUSTRY,Industry
 Q138133, Q1341477,INDUSTRY,Industry
@@ -43860,7 +43829,6 @@ Q108122211,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q253967,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7742533,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7178908,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q679910,Q3565868,INDUSTRY,Industry
 Q5331091,Q126793,INDUSTRY,Industry
 Q6041652,Q56598901,INDUSTRY,Industry
@@ -44345,7 +44313,6 @@ Q7828510,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5979248,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q9091535,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1130956,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q2419591,Q941594,INDUSTRY,Industry
 Q23870181,Q540912,INDUSTRY,Industry
 Q16916495,Q43183,INDUSTRY,Industry
@@ -45513,7 +45480,6 @@ Q60053872,4_equity,EQUITY_BAND,Quant_Metric
 Q62320,4_equity,EQUITY_BAND,Quant_Metric
 Q11896331,4_equity,EQUITY_BAND,Quant_Metric
 Q1123823,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q699142,Q540912,INDUSTRY,Industry
 Q683146,Q3972943,INDUSTRY,Industry
 Q22907073,Q484847,INDUSTRY,Industry
@@ -45850,7 +45816,6 @@ Q4827416,9_profit,PROFIT_BAND,Quant_Metric
 Q4827416,9_assets,ASSETS_BAND,Quant_Metric
 Q4827416,9_equity,EQUITY_BAND,Quant_Metric
 Q4827416,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q2786319,Q126793,INDUSTRY,Industry
 Q12342886,Q17487600,INDUSTRY,Industry
 Q12342886, Q1618728,INDUSTRY,Industry
@@ -46542,7 +46507,6 @@ Q689791,3_assets,ASSETS_BAND,Quant_Metric
 Q18224,5_equity,EQUITY_BAND,Quant_Metric
 Q818846,9_equity,EQUITY_BAND,Quant_Metric
 Q1241260,3_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q107660550,Q941594,INDUSTRY,Industry
 Q4855947,Q1416657,INDUSTRY,Industry
 Q4855947, Q837171,INDUSTRY,Industry
@@ -47735,7 +47699,6 @@ Q86661244,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7259612,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1160928,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q30915392,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q96314827,Q2988038,INDUSTRY,Industry
 Q3677151,Q1415395,INDUSTRY,Industry
 Q936325,Q112046,INDUSTRY,Industry
@@ -50511,7 +50474,6 @@ Q3765180,4_equity,EQUITY_BAND,Quant_Metric
 Q45404519,4_equity,EQUITY_BAND,Quant_Metric
 Q114720053,4_equity,EQUITY_BAND,Quant_Metric
 Q207770,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q803640,Q862571,INDUSTRY,Industry
 Q12242596,Q31207,INDUSTRY,Industry
 Q7907093,Q56598901,INDUSTRY,Industry
@@ -50586,7 +50548,6 @@ Q4842748,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7907093,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4842752,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q60776486,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q591359,Q392933,INDUSTRY,Industry
 Q64139027,Q484847,INDUSTRY,Industry
 Q64139027, Q126793,INDUSTRY,Industry
@@ -51410,7 +51371,6 @@ Q690639,4_equity,EQUITY_BAND,Quant_Metric
 Q513977,4_equity,EQUITY_BAND,Quant_Metric
 Q66370735,4_equity,EQUITY_BAND,Quant_Metric
 Q168238,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q105960982,Q126793,INDUSTRY,Industry
 Q757307,Q880371,INDUSTRY,Industry
 Q17103499,Q870895,INDUSTRY,Industry
@@ -52996,7 +52956,6 @@ Q836945,1_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q732670,1_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2031726,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1200904,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q101429710,Q13554450,INDUSTRY,Industry
 Q2006989,Q862571,INDUSTRY,Industry
 Q100572830,Q13554450,INDUSTRY,Industry
@@ -53554,7 +53513,6 @@ Q17709270,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q16540032,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q105716072,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4823399,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7553274,Q26643,INDUSTRY,Industry
 Q7203672,Q126793,INDUSTRY,Industry
 Q113104834,Q941594,INDUSTRY,Industry
@@ -54031,14 +53989,12 @@ Q29675,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q603023,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q62564998,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1949576,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q705688,Q423,RESIDES_IN,Location
 Q705688,4_employee_count,EMPLOYEE_COUNT_BAND,Quant_Metric
 Q705688,4_profit,PROFIT_BAND,Quant_Metric
 Q705688,4_assets,ASSETS_BAND,Quant_Metric
 Q705688,4_equity,EQUITY_BAND,Quant_Metric
 Q705688,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q76099070,Q4899370,INDUSTRY,Industry
 Q76099070, Q540912,INDUSTRY,Industry
 Q113858405,Q12147,INDUSTRY,Industry
@@ -54097,7 +54053,6 @@ Q65095488,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q64485166,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q54975760,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2819053,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q12812126,Q1727518,INDUSTRY,Industry
 Q640497,Q581105,INDUSTRY,Industry
 Q322962,Q837171,INDUSTRY,Industry
@@ -56102,7 +56057,6 @@ Q109533007,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4810943,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q28940722,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6586561,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q537886,Q806718,INDUSTRY,Industry
 Q1492739,Q862571,INDUSTRY,Industry
 Q114102189,Q18043413,INDUSTRY,Industry
@@ -56524,7 +56478,6 @@ Q81123,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q104539100,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q109012157,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4782260,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q79032197,Q1431026,INDUSTRY,Industry
 Q79032197, Q27686,INDUSTRY,Industry
 Q5281,Q880371,INDUSTRY,Industry
@@ -57839,7 +57792,6 @@ Q645708,9_assets,ASSETS_BAND,Quant_Metric
 Q15678788,1_assets,ASSETS_BAND,Quant_Metric
 Q5281,9_equity,EQUITY_BAND,Quant_Metric
 Q5281,2_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q17103499,Q870895,INDUSTRY,Industry
 Q6819305,Q2356921,INDUSTRY,Industry
 Q6167713,Q126793,INDUSTRY,Industry
@@ -58774,7 +58726,6 @@ Q1549526,6_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4040441,5_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q246946,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q8063337,1_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q28173200,Q837171,INDUSTRY,Industry
 Q113858405,Q12147,INDUSTRY,Industry
 Q683146,Q3972943,INDUSTRY,Industry
@@ -60989,7 +60940,6 @@ Q55758942,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3523697,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6019346,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5629103,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q2016854,Q14941854,INDUSTRY,Industry
 Q407675,Q1088438,HEADQUARTERS,Location
 Q2016854,Q36526,HEADQUARTERS,Location
@@ -61009,7 +60959,6 @@ Q407675,4_equity,EQUITY_BAND,Quant_Metric
 Q97544210,4_equity,EQUITY_BAND,Quant_Metric
 Q2016854,4_equity,EQUITY_BAND,Quant_Metric
 Q2016854,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q109606691,Q177777,INDUSTRY,Industry
 Q5159960,Q155930,INDUSTRY,Industry
 Q4835087,Q837171,INDUSTRY,Industry
@@ -61467,7 +61416,6 @@ Q936476,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q20015002,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5728123,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5271849,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q62274431,Q1341477,INDUSTRY,Industry
 Q62054564,Q837171,INDUSTRY,Industry
 Q62054564, Q806718,INDUSTRY,Industry
@@ -61580,7 +61528,6 @@ Q6175024,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114249592,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7894300,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q107808357,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q1812822,Q3444730,INDUSTRY,Industry
 Q1812822, Q2542096,INDUSTRY,Industry
 Q1812822, Q862571,INDUSTRY,Industry
@@ -61819,7 +61766,6 @@ Q1537436,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5397474,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q651491,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q106911700,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q1550912,Q5268834,INDUSTRY,Industry
 Q1550912, Q3510521,INDUSTRY,Industry
 Q1550912, Q3477363,INDUSTRY,Industry
@@ -62360,7 +62306,6 @@ Q6156781,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1547837,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q52610912,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5937434,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q81782924,Q1416657,INDUSTRY,Industry
 Q81782924, Q837171,INDUSTRY,Industry
 Q81782924, Q806718,INDUSTRY,Industry
@@ -62595,7 +62540,6 @@ Q4090805,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4854087,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q81970584,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q107807053,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7842382,Q862571,INDUSTRY,Industry
 Q7842382,Q7439948,HEADQUARTERS,Location
 Q7842420,Q39178,HEADQUARTERS,Location
@@ -62611,7 +62555,6 @@ Q7842382,4_equity,EQUITY_BAND,Quant_Metric
 Q7842420,4_equity,EQUITY_BAND,Quant_Metric
 Q7842382,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7842420,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q104606360,Q104606240,CEO,Person
 Q3374585,Q4965702,CHAIRMAN,Person
 Q190585,Q84,HEADQUARTERS,Location
@@ -62663,7 +62606,6 @@ Q104606360,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q26162515,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5567383,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q65767071,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q105953576,Q941594,INDUSTRY,Industry
 Q7553274,Q26643,INDUSTRY,Industry
 Q16011797,Q941594,INDUSTRY,Industry
@@ -62807,7 +62749,6 @@ Q1665583,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q97155068,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q961612,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q933854,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q5715556,Q837171,INDUSTRY,Industry
 Q5717949,Q1416657,INDUSTRY,Industry
 Q5717949, Q837171,INDUSTRY,Industry
@@ -62924,7 +62865,6 @@ Q62273613,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1384387,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q62273652,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3402308,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q9300764,Q28752461,CEO,Person
 Q421023,Q5740815,HEADQUARTERS,Location
 Q5352248,Q274584,HEADQUARTERS,Location
@@ -62980,7 +62920,6 @@ Q62595229,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5965374,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3211908,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5886178,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7950772,Q25245117,INDUSTRY,Industry
 Q16489455,Q18686486,CHAIRMAN,Person
 Q421023,Q5740815,HEADQUARTERS,Location
@@ -63048,7 +62987,6 @@ Q29515996,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7950772,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5719051,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q16489455,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q17061030,Q126793,INDUSTRY,Industry
 Q7817,Q29584363,INDUSTRY,Industry
 Q746413,Q3972943,INDUSTRY,Industry
@@ -63916,7 +63854,6 @@ Q110488009,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q111522985,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q110552722,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q63985038,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q110060982,Q941594,INDUSTRY,Industry
 Q107120814,Q126793,INDUSTRY,Industry
 Q61931385,Q28752461,CEO,Person
@@ -63984,7 +63921,6 @@ Q16492368,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q110060982,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3049831,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q107120814,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q111098404,Q484847,INDUSTRY,Industry
 Q111098404, Q126793,INDUSTRY,Industry
 Q111647270,Q746359,INDUSTRY,Industry
@@ -64516,7 +64452,6 @@ Q5687097,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4855942,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q806640,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6445552,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q6432127,Q56598901,INDUSTRY,Industry
 Q6432127, Q25245117,INDUSTRY,Industry
 Q4120421,Q56598901,INDUSTRY,Industry
@@ -64610,7 +64545,6 @@ Q3668446,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q8064821,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q310842,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7895102,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q5715556,Q837171,INDUSTRY,Industry
 Q112288170,Q540912,INDUSTRY,Industry
 Q96241160,Q5056668,INDUSTRY,Industry
@@ -64722,7 +64656,6 @@ Q85862799,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q94114919,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q19382082,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2917708,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q25490608,Q3972943,INDUSTRY,Industry
 Q30561822,Q3972943,INDUSTRY,Industry
 Q22907681,Q880371,INDUSTRY,Industry
@@ -66261,7 +66194,6 @@ Q6891113,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q97207539,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1566222,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q60642552,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q102225773,Q25245117,INDUSTRY,Industry
 Q102225773,Q131694,HEADQUARTERS,Location
 Q102225773,Q805,RESIDES_IN,Location
@@ -66270,7 +66202,6 @@ Q102225773,4_profit,PROFIT_BAND,Quant_Metric
 Q102225773,4_assets,ASSETS_BAND,Quant_Metric
 Q102225773,4_equity,EQUITY_BAND,Quant_Metric
 Q102225773,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q4678064,Q11030,INDUSTRY,Industry
 Q824225,Q1757562,INDUSTRY,Industry
 Q4120390,Q177777,INDUSTRY,Industry
@@ -66350,7 +66281,6 @@ Q824225,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4704674,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7743519,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4120390,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q5715556,Q837171,INDUSTRY,Industry
 Q421023,Q5740815,HEADQUARTERS,Location
 Q5715556,Q3274,HEADQUARTERS,Location
@@ -66391,7 +66321,6 @@ Q7896692,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q495504,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5160091,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3211909,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q756172,Q9326,HEADQUARTERS,Location
 Q4739924,Q819,RESIDES_IN,Location
 Q756172,Q819,RESIDES_IN,Location
@@ -66411,7 +66340,6 @@ Q114457330,4_equity,EQUITY_BAND,Quant_Metric
 Q4739924,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q756172,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114457330,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q5473211,Q746359,INDUSTRY,Industry
 Q20391644,Q2294553,INDUSTRY,Industry
 Q64729624,Q3972943,INDUSTRY,Industry
@@ -66552,7 +66480,6 @@ Q64729624,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q104092039,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q79893814,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12211270,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q17103499,Q870895,INDUSTRY,Industry
 Q113021615,Q746359,INDUSTRY,Industry
 Q683146,Q3972943,INDUSTRY,Industry
@@ -67736,7 +67663,6 @@ Q20715991,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q106420998,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q96102845,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q113597098,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q24035912,Q56598901,INDUSTRY,Industry
 Q24035912, Q25245117,INDUSTRY,Industry
 Q24035910,Q56598901,INDUSTRY,Industry
@@ -67809,7 +67735,6 @@ Q2945963,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q18150728,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q105548053,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q73879785,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q13186934,Q96107414,INDUSTRY,Industry
 Q13186934, Q1416657,INDUSTRY,Industry
 Q13186934, Q837171,INDUSTRY,Industry
@@ -67897,7 +67822,6 @@ Q13179664,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q58478566,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q13180801,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q25350848,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q105581055,Q43183,INDUSTRY,Industry
 Q7370229,Q1519,HEADQUARTERS,Location
 Q2843943,Q623504,HEADQUARTERS,Location
@@ -67939,7 +67863,6 @@ Q1808326,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q860379,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q105581055,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q86499251,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7637775,Q1416657,INDUSTRY,Industry
 Q7637775, Q837171,INDUSTRY,Industry
 Q7637775, Q806718,INDUSTRY,Industry
@@ -68425,7 +68348,6 @@ Q4842499,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6846373,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4807137,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7895024,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q66132404,Q1751445,INDUSTRY,Industry
 Q2819353,Q112166047,INDUSTRY,Industry
 Q108541264,Q11033,INDUSTRY,Industry
@@ -68539,7 +68461,6 @@ Q27991307,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q67913420,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q18346281,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q67570178,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q12199341,Q837171,INDUSTRY,Industry
 Q7408955,Q837171,INDUSTRY,Industry
 Q1761176,Q1416657,INDUSTRY,Industry
@@ -68882,7 +68803,6 @@ Q679322,9_assets,ASSETS_BAND,Quant_Metric
 Q903219,1_equity,EQUITY_BAND,Quant_Metric
 Q679322,9_equity,EQUITY_BAND,Quant_Metric
 Q679322,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q109571008,Q43015,INDUSTRY,Industry
 Q108406108,Q37038,INDUSTRY,Industry
 Q5065795,Q862571,INDUSTRY,Industry
@@ -69077,7 +68997,6 @@ Q5152468,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q54980254,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3534875,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q67161782,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q6718487,Q56598901,INDUSTRY,Industry
 Q6718487, Q25245117,INDUSTRY,Industry
 Q1584130,Q56598901,INDUSTRY,Industry
@@ -69113,7 +69032,6 @@ Q3270934,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1584130,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q112628059,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q63392,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q4215912,Q190117,INDUSTRY,Industry
 Q4022370,Q11650,INDUSTRY,Industry
 Q714335,Q1326885,INDUSTRY,Industry
@@ -69737,7 +69655,6 @@ Q463094,9_profit,PROFIT_BAND,Quant_Metric
 Q699848,9_assets,ASSETS_BAND,Quant_Metric
 Q699848,9_equity,EQUITY_BAND,Quant_Metric
 Q699848,9_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q699142,Q540912,INDUSTRY,Industry
 Q113858405,Q12147,INDUSTRY,Industry
 Q76099070,Q4899370,INDUSTRY,Industry
@@ -70286,7 +70203,6 @@ Q51684934,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1318400,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12125952,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q50675028,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q857826,Q56598901,INDUSTRY,Industry
 Q857826, Q25245117,INDUSTRY,Industry
 Q796158,Q23438,HEADQUARTERS,Location
@@ -70303,7 +70219,6 @@ Q796158,4_equity,EQUITY_BAND,Quant_Metric
 Q857826,4_equity,EQUITY_BAND,Quant_Metric
 Q796158,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q857826,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q64732479,Q1985622,INDUSTRY,Industry
 Q30147522,Q1495452,INDUSTRY,Industry
 Q12242596,Q31207,INDUSTRY,Industry
@@ -70580,7 +70495,6 @@ Q4115940,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114877710,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q114891288,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4875753,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q843490,Q56611700,INDUSTRY,Industry
 Q1003180,Q1416657,INDUSTRY,Industry
 Q1003180, Q837171,INDUSTRY,Industry
@@ -70892,7 +70806,6 @@ Q20984297,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q115054217,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q60245505,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q29946462,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q105697039,Q941594,INDUSTRY,Industry
 Q11133743,Q625568,INDUSTRY,Industry
 Q494158,Q778575,INDUSTRY,Industry
@@ -71744,7 +71657,6 @@ Q489428,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q624291,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q20394,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q55931,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q63185661,Q1762059,INDUSTRY,Industry
 Q383046,Q56598901,INDUSTRY,Industry
 Q383046, Q25245117,INDUSTRY,Industry
@@ -71788,7 +71700,6 @@ Q1156372,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5679623,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3370273,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q383046,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q104882072,Q507619,INDUSTRY,Industry
 Q104882072, Q187939,INDUSTRY,Industry
 Q3350382,Q1416657,INDUSTRY,Industry
@@ -72091,7 +72002,6 @@ Q108559543,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q1586163,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q30603693,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2156338,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q30594734,Q1416657,INDUSTRY,Industry
 Q30594734, Q837171,INDUSTRY,Industry
 Q30594734, Q806718,INDUSTRY,Industry
@@ -72129,7 +72039,6 @@ Q30594734,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6743829,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q2883022,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3355061,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q108057456,Q12684,INDUSTRY,Industry
 Q30271968,Q177777,INDUSTRY,Industry
 Q111903250,Q173799,INDUSTRY,Industry
@@ -72315,7 +72224,6 @@ Q106957508,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q6974322,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q54553825,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q7939274,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q2691308,Q171141,INDUSTRY,Industry
 Q2691308, Q126793,INDUSTRY,Industry
 Q94480105,Q837171,INDUSTRY,Industry
@@ -73160,7 +73068,6 @@ Q25212199,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4739919,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q54826455,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q62267166,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q2883413,Q1416657,INDUSTRY,Industry
 Q2883413, Q837171,INDUSTRY,Industry
 Q2883413, Q806718,INDUSTRY,Industry
@@ -73330,7 +73237,6 @@ Q96017301,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3399820,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q12203388,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q3517415,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q806694,Q28718255,CHAIRMAN,Person
 Q1877680,Q3881,HEADQUARTERS,Location
 Q806694,Q3881,HEADQUARTERS,Location
@@ -73352,7 +73258,6 @@ Q77418726,4_equity,EQUITY_BAND,Quant_Metric
 Q1877680,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q806694,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q77418726,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q17103499,Q870895,INDUSTRY,Industry
 Q16951392,Q837171,INDUSTRY,Industry
 Q7190735,Q126793,INDUSTRY,Industry
@@ -73416,7 +73321,6 @@ Q60743252,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4859966,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4693887,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q17107908,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q9089355,Q56598901,INDUSTRY,Industry
 Q9089355, Q25245117,INDUSTRY,Industry
 Q9089355, Q2858140,INDUSTRY,Industry
@@ -74723,7 +74627,6 @@ Q70961151,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4853573,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q5351735,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q107867082,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q7190735,Q126793,INDUSTRY,Industry
 Q4948910,Q2151621,INDUSTRY,Industry
 Q104866602,Q126793,INDUSTRY,Industry
@@ -74809,7 +74712,6 @@ Q7973406,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4948925,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q56319592,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q4948874,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-company_id,val_id,edge_typ,node_typ
 Q21178738,Q837171,INDUSTRY,Industry
 Q112685013,Q112845612,CEO,Person
 Q7370229,Q1519,HEADQUARTERS,Location
@@ -74837,4 +74739,4 @@ Q7370229,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q106413558,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q112685013,4_market_cap,MARKET_CAP_BAND,Quant_Metric
 Q21178738,4_market_cap,MARKET_CAP_BAND,Quant_Metric
-
+,,,

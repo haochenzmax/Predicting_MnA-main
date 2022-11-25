@@ -4,18 +4,14 @@ Q17061030,Jumia,2012-01-01T00:00:00Z
 Q60183335,Foani,1975-01-01T00:00:00Z
 Q3323637,Moov Côte d'Ivoire,
 Q3273241,MTN Côte d'Ivoire,2005-01-01T00:00:00Z
-id,name,start_date
 Q17061030,Jumia,2012-01-01T00:00:00Z
 Q106155702,CamerounWeb,2014-06-25T00:00:00Z
 Q28404980,Madlyn Cazalis,2012-01-01T00:00:00Z
 Q48780935,Vodafone Cameroon,2016-01-01T00:00:00Z
-id,name,start_date
 Q387901,Afriqiyah Airways,2001-01-01T00:00:00Z
 Q24707852,Libyan Post Telecommunications & Information Technology Company,2005-01-01T00:00:00Z
-id,name,start_date
 Q106689581,Skybound Capital,2008-01-01T00:00:00Z
 Q407556,Air Mauritius,1967-01-01T00:00:00Z
-id,name,start_date
 Q110969032,Trendad,2019-01-01T00:00:00Z
 Q2055692,Marjane,1990-01-01T00:00:00Z
 Q55361226,Easydis,2016-01-01T00:00:00Z
@@ -64,7 +60,6 @@ Q18384641,Masen,2010-01-01T00:00:00Z
 Q73139954,Hilton Tangier Al Houara Resort & Spa,2019-01-01T00:00:00Z
 Q114853598,Vectalia Nador,
 Q866103,Royal Air Maroc,1957-01-01T00:00:00Z
-id,name,start_date
 Q527612,This Day,1995-01-01T00:00:00Z
 Q104522362,Unulax,2016-07-04T00:00:00Z
 Q5452342,First Bank of Nigeria,1894-01-01T00:00:00Z
@@ -142,7 +137,6 @@ Q7537673,Skye Bank,2006-01-01T00:00:00Z
 Q48803445,TheCable,2011-01-01T00:00:00Z
 Q110916091,Bukatee Restaurant,
 Q7738431,The Guardian,1983-01-01T00:00:00Z
-id,name,start_date
 Q7098598,Opportunity Uganda Limited,1995-01-01T00:00:00Z
 Q7598001,Stanbic Bank Uganda Limited,1906-01-01T00:00:00Z
 Q7598202,Standard Chartered Uganda,1912-01-01T00:00:00Z
@@ -173,18 +167,15 @@ Q15917578,East African Business Week,2005-01-01T00:00:00Z
 Q18387190,Karuhanga Tabaro & Associates,2009-01-01T00:00:00Z
 Q7845759,Tropical Bank,1973-01-01T00:00:00Z
 Q97781970,Visit Africa,2019-08-08T00:00:00Z
-id,name,start_date
 Q18708932,Agence de presse sénégalaise,1959-04-02T00:00:00Z
 Q17061030,Jumia,2012-01-01T00:00:00Z
 Q3488511,Senelec,1983-01-01T00:00:00Z
 Q111209118,Free Sénégal,
 Q37873776,Dakar Dem Dikk,
 Q105977461,African Press Agency,
-id,name,start_date
 Q4783148,Arab Bank for Economic Development in Africa,
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q12183740,Q12183740,1940-01-01T00:00:00Z
-id,name,start_date
 Q10524043,Hilton Nairobi,
 Q55605275,Betika,2016-01-01T00:00:00Z
 Q18358469,BitPesa,2013-01-01T00:00:00Z
@@ -210,7 +201,6 @@ Q1768677,Daily Nation,1958-01-01T00:00:00Z
 Q43897916,Tuko,2015-01-01T00:00:00Z
 Q104833099,Alliance Française Eldoret,
 Q114570065,Centoe Group,2022-10-01T00:00:00Z
-id,name,start_date
 Q72812966,Hilton Addis Ababa,1969-01-01T00:00:00Z
 Q6199299,Jimma University,1983-01-01T00:00:00Z
 Q7590447,St. Mary's University,1998-01-01T00:00:00Z
@@ -221,7 +211,6 @@ Q6199299,Jimma University,1999-01-01T00:00:00Z
 Q1276270,EBC,1972-01-01T00:00:00Z
 Q107155267,Canal+ Ethiopia,
 Q1967889,National Bank of Ethiopia,1906-01-01T00:00:00Z
-id,name,start_date
 Q30271968,Zipline International,2011-01-01T00:00:00Z
 Q5555373,Ghana News Agency,1957-01-01T00:00:00Z
 Q110928553,Acube Graphics,2016-11-30T00:00:00Z
@@ -244,7 +233,6 @@ Q112259763,Celebritieshits,2019-01-01T00:00:00Z
 Q110677522,The Ghanaian Standard,2021-11-22T00:00:00Z
 Q5446778,Fidelity Bank Ghana,1990-01-01T00:00:00Z
 Q30688745,The Statesman Newspaper,1949-01-01T00:00:00Z
-id,name,start_date
 Q3579436,Éditions Mnémos,1996-01-01T00:00:00Z
 Q51036245,La Bohème,
 Q3204035,L'Impartial de la Drôme,1883-05-17T00:00:00Z
@@ -1015,7 +1003,7 @@ Q3579383,L'Harmattan,1975-06-11T00:00:00Z
 Q5244297,de Buyer,1830-01-01T00:00:00Z
 Q58385113,Éditions du Félin,1981-01-01T00:00:00Z
 Q24189171,Proman,
-Q2806609,10/18,1962-01-01T00:00:00Z
+Q2806609,Oct-18,1962-01-01T00:00:00Z
 Q3145485,Hôtel Edouard 7,
 Q3046208,Bouygues énergies & services,1929-01-01T00:00:00Z
 Q2211570,Saft,1918-01-01T00:00:00Z
@@ -2217,7 +2205,6 @@ Q56515304,Bedroom Research,2002-01-01T00:00:00Z
 Q109414146,BNP PARIBAS PERSONAL FINANCE,1954-01-01T00:00:00Z
 Q3357096,Oscaro,2001-01-01T00:00:00Z
 Q16040593,DS Automobiles,2015-01-01T00:00:00Z
-id,name,start_date
 Q110147122,Hilton Garden Inn London Heathrow Terminals 2 and 3,
 Q80857633,The Cross Foxes,
 Q99592031,The Crown Inn,
@@ -11592,7 +11579,6 @@ Q80582400,"The Royal Oak, Felinfoel",
 Q81047808,Bottle Grove,
 Q5928422,House of Fraser,1849-01-01T00:00:00Z
 Q26673106,Cemetery Hotel Public House,
-id,name,start_date
 Q80340275,Wismec,2015-01-01T00:00:00Z
 Q109422605,Arrowiz,2016-01-01T00:00:00Z
 Q20063955,NetEase Music,2013-01-24T00:00:00Z
@@ -11886,7 +11872,6 @@ Q7267707,Qihoo 360,2005-01-01T00:00:00Z
 Q18651854,Park Hyatt Beijing,
 Q1636958,Xiaomi,2010-04-06T00:00:00Z
 Q93497501,FYQD-Studio,
-id,name,start_date
 Q7894395,Universidade Presbiteriana Mackenzie,1870-01-01T00:00:00Z
 Q746413,Elsevier BV,1880-01-01T00:00:00Z
 Q1579222,Ultrapar,1937-01-01T00:00:00Z
@@ -12626,7 +12611,6 @@ Q69524613,Bar da Dona Onça,
 Q63723953,Sobaria restaurant,
 Q10396541,Óticas Diniz,1992-01-01T00:00:00Z
 Q108945355,JM Neto Game Dev,
-id,name,start_date
 Q107064571,noissue,
 Q32038645,Berzerk Studio,2008-12-04T00:00:00Z
 Q26254100,Microbrasserie La Captive,2010-01-01T00:00:00Z
@@ -13815,7 +13799,6 @@ Q7758964,The Queen's Journal,1873-01-01T00:00:00Z
 Q6747864,Mandarin Restaurant,1979-01-01T00:00:00Z
 Q5340317,Edson Leader,1911-01-01T00:00:00Z
 Q3410420,Public Mobile,2010-01-01T00:00:00Z
-id,name,start_date
 Q11404905,Tokachigawa Onsen,
 Q2115012,Good Smile Company,2001-01-01T00:00:00Z
 Q1041890,Animate,1983-01-01T00:00:00Z
@@ -15985,7 +15968,7 @@ Q7958581,Waap Entertainment,1998-01-01T00:00:00Z
 Q11498635,Maya Kankō Hotel,
 Q24873715,Views,1989-10-01T00:00:00Z
 Q2547139,Kadokawa Pictures,2007-01-01T00:00:00Z
-Q4644252,8-4,2005-10-05T00:00:00Z
+Q4644252,08-Apr,2005-10-05T00:00:00Z
 Q111974537,CLAP,2016-09-01T00:00:00Z
 Q11344051,Mercure Yokosuka,
 Q104771975,Nekogames,
@@ -16479,7 +16462,6 @@ Q56700919,Noboribetsu Sekisuitei,
 Q912702,Tactics,1997-01-01T00:00:00Z
 Q11611122,Shogoin Yatsuhashi,1689-01-01T00:00:00Z
 Q109595496,Q109595496,
-id,name,start_date
 Q106077682,Spree-Waldhotel,
 Q28777575,Logo,
 Q1415523,Olymp Bezner,1951-01-01T00:00:00Z
@@ -19104,7 +19086,6 @@ Q1544765,Green Planet Energy,1999-10-28T00:00:00Z
 Q15965171,Salzlandsparkasse,2009-01-01T00:00:00Z
 Q879018,Simba Dickie Group,1982-01-01T00:00:00Z
 Q15848843,Stadtwerke Energie Jena-Pößneck,1991-01-01T00:00:00Z
-id,name,start_date
 Q7000460,Vy Buss,2000-02-10T00:00:00Z
 Q511031,Norsk Hydro,1905-12-02T00:00:00Z
 Q1298438,Egon,1984-01-01T00:00:00Z
@@ -19384,7 +19365,6 @@ Q23042881,Q23042881,
 Q7885253,Uninett,1976-01-01T00:00:00Z
 Q23979144,Bane NOR,2016-02-05T00:00:00Z
 Q1603114,Helly Hansen,1877-01-01T00:00:00Z
-id,name,start_date
 Q111020507,Baltijas Mediju Alianse,1995-01-01T00:00:00Z
 Q112916316,Q112916316,1995-01-01T00:00:00Z
 Q62562792,BENU,2012-01-01T00:00:00Z
@@ -19430,7 +19410,6 @@ Q110783691,Q110783691,
 Q61121615,Balticom,
 Q16822050,Augstsprieguma tīkls,1939-10-15T00:00:00Z
 Q1807088,Latvijas Pasts,1992-01-01T00:00:00Z
-id,name,start_date
 Q13538661,Prima Banka,1993-01-01T00:00:00Z
 Q1368761,Východoslovenská energetika,2002-01-01T00:00:00Z
 Q578212,SLKB Komarno – Slovak Shipyard Komárno,
@@ -19520,7 +19499,6 @@ Q15966341,Tatry Mountain Resorts,1992-01-01T00:00:00Z
 Q12763551,Brloh,1995-01-01T00:00:00Z
 Q31392,Comenius University,1919-01-01T00:00:00Z
 Q108106650,ANTIK SmartWay,2019-04-22T00:00:00Z
-id,name,start_date
 Q3551461,Nicolae Titulescu University,2002-01-01T00:00:00Z
 Q13630969,CFR Marfă,1998-01-01T00:00:00Z
 Q3551414,Hyperion University of Bucharest,2002-01-01T00:00:00Z
@@ -19625,7 +19603,6 @@ Q796927,BRD - Société Générale,1923-01-01T00:00:00Z
 Q54307207,PVP Studio,2016-01-01T00:00:00Z
 Q806161,BANCA TRANSILVANIA S.A.,1993-01-01T00:00:00Z
 Q7283806,Raiffeisen Bank Romania,2002-01-01T00:00:00Z
-id,name,start_date
 Q19707473,Sunny Music,1996-01-01T00:00:00Z
 Q106508620,Health Zone,2009-05-11T00:00:00Z
 Q98225196,neosat,
@@ -19708,7 +19685,6 @@ Q12287911,NEK EAD,1991-01-01T00:00:00Z
 Q12298056,Hilton Sofia,
 Q1034634,Capital,1992-01-01T00:00:00Z
 Q108113024,Tayaranjet,
-id,name,start_date
 Q7334368,Rimac Automobili,2009-01-01T00:00:00Z
 Q3040168,Croatian News Agency,1990-01-01T00:00:00Z
 Q106775805,Room-C Games,
@@ -19767,7 +19743,6 @@ Q5428923,"Faculty of Civil Engineering, University of Osijek",1976-01-01T00:00:0
 Q241622,Večernji List,1959-01-01T00:00:00Z
 Q106866275,GetByBus,
 Q904388,Pliva,1921-01-01T00:00:00Z
-id,name,start_date
 Q106219885,Kaspi.kz Joint Stock Company,1991-01-01T00:00:00Z
 Q50809149,Hilton Astana,2017-11-02T00:00:00Z
 Q42800905,Astana Banki,2008-01-01T00:00:00Z
@@ -19794,7 +19769,6 @@ Q2649626,Almatyelektrotrans,1938-01-01T00:00:00Z
 Q25485074,Jýsan Bank,1992-01-17T00:00:00Z
 Q21843640,Bank RBK,1992-01-01T00:00:00Z
 Q406828,Air Astana,2001-01-01T00:00:00Z
-id,name,start_date
 Q1089788,Church in Wales,1920-01-01T00:00:00Z
 Q28405991,Wales Interactive,2012-01-01T00:00:00Z
 Q67377945,Cambria Publishing,
@@ -19802,7 +19776,6 @@ Q80582392,Tafarn Morlais,
 Q52021004,Ysbryd Games,2014-01-01T00:00:00Z
 Q108419827,Recordiau Côsh,
 Q109315111,Q109315111,
-id,name,start_date
 Q534515,University of Indonesia,1849-01-01T00:00:00Z
 Q5317233,Duta Wacana Christian University,1962-10-31T00:00:00Z
 Q18712406,Lazada Group,2012-01-01T00:00:00Z
@@ -19999,7 +19972,6 @@ Q6127803,Jambi University,1963-03-23T00:00:00Z
 Q17585104,K-Vision,2014-04-18T00:00:00Z
 Q12506012,Politeknik Caltex Riau,2001-06-05T00:00:00Z
 Q7415523,Sanata Dharma University,1955-01-01T00:00:00Z
-id,name,start_date
 Q1201656,Deukom,1996-01-01T00:00:00Z
 Q746413,Elsevier BV,1880-01-01T00:00:00Z
 Q14628869,South African Red Cross Air Mercy Service,
@@ -20131,7 +20103,6 @@ Q905998,Sasol,1950-01-01T00:00:00Z
 Q104523579,Planet Awesome,2015-01-01T00:00:00Z
 Q1509944,Mail & Guardian,1985-01-01T00:00:00Z
 Q7565777,South African Post Office,
-id,name,start_date
 Q1324287,El Khabar,1990-01-01T00:00:00Z
 Q3337704,Ooredoo Algérie,2004-01-01T00:00:00Z
 Q110286842,Ali Boushaki Hotel,1982-01-01T00:00:00Z
@@ -20156,12 +20127,10 @@ Q3551640,University of Mostaganem,1978-01-01T00:00:00Z
 Q1090717,Sonatrach,1963-12-01T00:00:00Z
 Q2931752,CNEP-Bank,1964-01-01T00:00:00Z
 Q3148108,Ifri,1996-01-01T00:00:00Z
-id,name,start_date
 Q7904565,Uzbekistan National News Agency,1992-01-01T00:00:00Z
 Q109930540,Shukrona Media Production,
 Q110120894,Korzinka,1996-01-01T00:00:00Z
 Q18635302,UMS,2014-01-01T00:00:00Z
-id,name,start_date
 Q107603784,AC Productions,
 Q5566596,Glanbia,1997-01-01T00:00:00Z
 Q86355054,The Lisa Richards Agency,1989-01-01T00:00:00Z
@@ -20359,7 +20328,6 @@ Q108122211,Macalla Teoranta,1997-01-01T00:00:00Z
 Q253967,Kerry Group,1972-01-01T00:00:00Z
 Q7742533,The Irish Catholic,1888-01-01T00:00:00Z
 Q7178908,Applegreen,1992-01-01T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q679910,Empresa de los Ferrocarriles del Estado,1884-01-04T00:00:00Z
 Q5331091,Easy,1993-01-01T00:00:00Z
@@ -20452,7 +20420,6 @@ Q7828510,Tottus,2002-01-01T00:00:00Z
 Q5979248,Los 40 Chile,2000-03-01T00:00:00Z
 Q9091535,Autonomous University of Chile,1989-08-11T00:00:00Z
 Q1130956,Copec,
-id,name,start_date
 Q50826023,Dionysos Films,2008-01-01T00:00:00Z
 Q11870854,Kemijoki,1954-01-01T00:00:00Z
 Q2419591,Frozenbyte,2001-01-01T00:00:00Z
@@ -20792,7 +20759,6 @@ Q11855687,DTM,
 Q60053872,Fintraffic,2019-01-01T00:00:00Z
 Q62320,Veljekset Keskinen,
 Q11896331,Tamperelainen,1957-09-19T00:00:00Z
-id,name,start_date
 Q738236,National University of Singapore,1905-01-01T00:00:00Z
 Q699142,Din Tai Fung,1991-05-07T00:00:00Z
 Q683146,LexisNexis,1973-01-01T00:00:00Z
@@ -20929,7 +20895,6 @@ Q97602541,Unified-Inbox,2014-02-06T00:00:00Z
 Q7945080,W!LD RICE,2000-01-01T00:00:00Z
 Q498921,The Straits Times,1845-07-15T00:00:00Z
 Q19898668,Tower Transit Singapore,2016-01-01T00:00:00Z
-id,name,start_date
 Q2786319,Flying Tiger Copenhagen,1995-01-01T00:00:00Z
 Q3437386,Museum Tusculanum Press,1975-01-01T00:00:00Z
 Q12342886,Agat Ejendomme,1974-01-01T00:00:00Z
@@ -21218,7 +21183,6 @@ Q29957185,Onepark A/S,2012-07-31T00:00:00Z
 Q1325291,SAXO BANK A/S,1992-01-01T00:00:00Z
 Q110510349,CarPeople,
 Q12307219,Danish Evaluation Institute,1999-06-01T00:00:00Z
-id,name,start_date
 Q107660550,Spokko,
 Q2691064,National Theatre of Warsaw,1765-01-01T00:00:00Z
 Q4855947,Bank Millennium,1989-01-01T00:00:00Z
@@ -21564,7 +21528,6 @@ Q86661244,Thing Trunk,2012-08-14T00:00:00Z
 Q7259612,Puls Biznesu,1997-01-01T00:00:00Z
 Q1160928,mBank,1986-06-01T00:00:00Z
 Q30915392,BikeU,2012-12-07T00:00:00Z
-id,name,start_date
 Q96314827,Bending Spoons,2013-01-01T00:00:00Z
 Q3677151,Cinecittà,2009-01-01T00:00:00Z
 Q936325,Terna,1999-01-01T00:00:00Z
@@ -22351,7 +22314,6 @@ Q48808434,Busitalia Veneto,2015-01-01T00:00:00Z
 Q3765180,Giordano Vini,1900-01-01T00:00:00Z
 Q45404519,Borgobello Puppet Theatre,
 Q114720053,Q114720053,
-id,name,start_date
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q4700704,Akhbar Al Khaleej,1976-01-01T00:00:00Z
 Q803640,Bahrain Petroleum Company,1929-01-01T00:00:00Z
@@ -22366,7 +22328,6 @@ Q4842748,Bahrain Mirror,2011-01-01T00:00:00Z
 Q7907093,Stc Bahrain,2010-01-01T00:00:00Z
 Q4842752,Bahrain News Agency,1976-01-01T00:00:00Z
 Q60776486,Texel Air,
-id,name,start_date
 Q591359,Steyr Arms,1989-01-01T00:00:00Z
 Q64139027,Omoda,1875-01-01T00:00:00Z
 Q109391386,Bitpanda,2014-10-01T00:00:00Z
@@ -22614,7 +22575,6 @@ Q1301927,G-Stone Recordings,
 Q690639,University of Klagenfurt,1970-01-01T00:00:00Z
 Q513977,Match,1995-01-01T00:00:00Z
 Q66370735,Brunnwind,
-id,name,start_date
 Q531285,University of Newcastle,1965-01-01T00:00:00Z
 Q4822750,Ausgrid,2011-01-01T00:00:00Z
 Q105960982,Spotlight,1973-01-01T00:00:00Z
@@ -23290,7 +23250,6 @@ Q17986656,Cootamundra Herald,1880-01-01T00:00:00Z
 Q48797459,Zimmermann,1991-01-01T00:00:00Z
 Q113961498,Cotton On Kids,2005-01-01T00:00:00Z
 Q4887077,Bendigo Bank,1858-01-01T00:00:00Z
-id,name,start_date
 Q2496204,Saint Thomas Aquinas University of the North,1965-01-01T00:00:00Z
 Q73281818,Ederkind Música,2018-01-01T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
@@ -23465,7 +23424,6 @@ Q17709270,ARSAT,2006-04-26T00:00:00Z
 Q16540032,Cafe Martínez,1933-01-01T00:00:00Z
 Q105716072,Diario Armenia,1931-04-24T00:00:00Z
 Q4823399,Austral University,1978-01-01T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q7553274,Sodimac,1952-01-01T00:00:00Z
 Q7203672,Plaza Vea,2003-01-01T00:00:00Z
@@ -23534,9 +23492,7 @@ Q29675,University of Lima,1962-04-25T00:00:00Z
 Q603023,CD Universidad César Vallejo,1996-01-01T00:00:00Z
 Q62564998,Mifarma Perú,
 Q1949576,El Peruano,1825-01-01T00:00:00Z
-id,name,start_date
 Q705688,Uriminzokkiri,2003-01-01T00:00:00Z
-id,name,start_date
 Q76099070,Tiger Sugar,
 Q113858405,Hello Health Group,2015-01-01T00:00:00Z
 Q62534875,Tela,1993-01-01T00:00:00Z
@@ -23547,7 +23503,6 @@ Q65095488,Cafe Eden,
 Q64485166,Here Be Dragons,
 Q54975760,Amansara,2002-01-01T00:00:00Z
 Q2819053,ACLEDA Bank,1993-01-01T00:00:00Z
-id,name,start_date
 Q12812126,Türksat,1990-01-01T00:00:00Z
 Q6084252,Çiçeksepeti,2007-01-01T00:00:00Z
 Q28940735,Dost Kitabevi,1977-03-01T00:00:00Z
@@ -23951,7 +23906,6 @@ Q4810943,Erciyes University,1978-01-01T00:00:00Z
 Q28940722,Home Store,
 Q192964,Istanbul University,1453-01-01T00:00:00Z
 Q6586561,Mardin Artuklu University,2007-01-01T00:00:00Z
-id,name,start_date
 Q18485899,Sport Zone,1997-01-01T00:00:00Z
 Q537886,Portuguese Investment Bank,1981-10-06T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
@@ -24049,7 +24003,6 @@ Q81123,Comboios de Portugal,1997-01-01T00:00:00Z
 Q104539100,NDISCOVER,2011-01-01T00:00:00Z
 Q109012157,Alves Bandeira,
 Q4782260,Aptoide,2009-11-17T00:00:00Z
-id,name,start_date
 Q79032197,Van der Valk Hotel Hardegarijp Leeuwarden,1957-01-01T00:00:00Z
 Q5281,Yandex,2000-01-01T00:00:00Z
 Q170416,Koninklijke Philips NV,1891-05-15T00:00:00Z
@@ -24563,7 +24516,6 @@ Q18285926,Hotel Boschhuis,
 Q26709772,Karakter,
 Q86437838,Auto- en Carrosseriebedrijf Ambting B.V.,1967-01-01T00:00:00Z
 Q641168,Human Genome Organisation,1989-01-01T00:00:00Z
-id,name,start_date
 Q79302853,Mokena Restaurant,
 Q7752980,New Zealand Opera,2000-01-01T00:00:00Z
 Q110295215,Bed Bath & Beyond,
@@ -24748,7 +24700,6 @@ Q606140,University of Waikato,1964-01-01T00:00:00Z
 Q111015103,Number One Shoes,1974-01-01T00:00:00Z
 Q59222830,Meltdown Interactive Media,
 Q108626533,Oddboy,2016-01-01T00:00:00Z
-id,name,start_date
 Q110553317,University Centre for Incubation-cum-Technology Commercialization,2021-01-01T00:00:00Z
 Q6150847,Janathavani,
 Q18386006,Page Industries,1995-01-01T00:00:00Z
@@ -25363,11 +25314,9 @@ Q55758942,Kerala Bibliographical and Biographical Centre,
 Q3523697,AVM Productions,1945-01-01T00:00:00Z
 Q6019346,India Infoline,1995-01-01T00:00:00Z
 Q5629103,HCL Technologies,1991-01-01T00:00:00Z
-id,name,start_date
 Q407675,Air Niugini,1973-01-01T00:00:00Z
 Q97544210,Hilton Port Moresby,
 Q2016854,Oil Search,1929-01-01T00:00:00Z
-id,name,start_date
 Q5769689,Cines Unidos,1947-06-13T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q109606691,MRW,1988-01-01T00:00:00Z
@@ -25432,7 +25381,6 @@ Q936476,Central University of Venezuela,1721-01-01T00:00:00Z
 Q20015002,Farmahorro,1907-01-01T00:00:00Z
 Q5728123,Banco Bicentenario,2009-12-16T00:00:00Z
 Q5271849,Diario 2001,1973-01-01T00:00:00Z
-id,name,start_date
 Q16592760,Los 40 Paraguay,
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q62274431,Copetrol,
@@ -25450,7 +25398,6 @@ Q6175024,Última Hora,1973-10-08T00:00:00Z
 Q114249592,Diario Extra,
 Q7894300,Universidad Nacional de Itapúa,1996-12-03T00:00:00Z
 Q107808357,Sociedad de Gestión de Productores Fonográficos del Paraguay,2002-03-20T00:00:00Z
-id,name,start_date
 Q7894254,Universidad Católica de Oriente,1982-02-11T00:00:00Z
 Q909209,El Comercio,1906-01-01T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
@@ -25487,7 +25434,6 @@ Q5397474,Universidad de las Fuerzas Armadas - ESPE,1922-06-16T00:00:00Z
 Q651491,LATAM Ecuador,2002-01-01T00:00:00Z
 Q106911700,Ecuatoriana Airlines,2020-01-01T00:00:00Z
 Q926303,El Universo,1921-09-16T00:00:00Z
-id,name,start_date
 Q5871530,Fundación Universitaria Juan de Castellanos,1987-01-01T00:00:00Z
 Q1550912,GMV Innovating Solutions,1984-01-01T00:00:00Z
 Q107290841,Autobótika,
@@ -25526,7 +25472,7 @@ Q1054314,International Center for Tropical Agriculture,1962-01-01T00:00:00Z
 Q1569421,University of the Andes,1948-01-01T00:00:00Z
 Q4854122,Bank of Bogota,1980-01-01T00:00:00Z
 Q100881924,Q100881924,
-Q85800448,4-72,2006-01-01T00:00:00Z
+Q85800448,Apr-72,2006-01-01T00:00:00Z
 Q5964328,La Mega,
 Q7894273,Universidad Externado de Colombia,1886-01-01T00:00:00Z
 Q65048578,El Bogotano,1973-01-01T00:00:00Z
@@ -25593,7 +25539,6 @@ Q6156781,Universidad de Manizales,
 Q1547837,University of Nariño,1904-01-01T00:00:00Z
 Q52610912,Grupo Kavilando,
 Q5937434,Jorge Tadeo Lozano University,1954-02-05T00:00:00Z
-id,name,start_date
 Q81782924,Fie Bank,1985-01-01T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q6464783,La Razón,1917-02-17T00:00:00Z
@@ -25626,10 +25571,8 @@ Q4090805,Agencia Boliviana Espacial,2010-02-10T00:00:00Z
 Q4854087,Economic Bank,1991-02-07T00:00:00Z
 Q81970584,Pharmacies Bolivia,1999-06-07T00:00:00Z
 Q107807053,Sociedad Boliviana de Autores y Compositores de Música,
-id,name,start_date
 Q7842382,Trinidad & Tobago National Petroleum Marketing Company Limited,1972-01-01T00:00:00Z
 Q7842420,Trinidad and Tobago Guardian,1917-01-01T00:00:00Z
-id,name,start_date
 Q190585,Island Records,1959-07-04T00:00:00Z
 Q3374585,Bank of Jamaica,1961-05-01T00:00:00Z
 Q5463174,Fly Jamaica Airways,2012-01-01T00:00:00Z
@@ -25637,7 +25580,6 @@ Q104606360,Downsound Records,
 Q26162515,The Gleaner,1834-01-01T00:00:00Z
 Q5567383,Gleaner Company,1834-01-01T00:00:00Z
 Q65767071,Yardie Muzik,2010-01-01T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q62131749,Axion,
 Q892935,El Observador,1991-10-22T00:00:00Z
@@ -25659,7 +25601,6 @@ Q1665583,UTE,1912-10-21T00:00:00Z
 Q97155068,Montevideo Music Group,
 Q961612,Universidad de Montevideo,1986-01-01T00:00:00Z
 Q933854,El País,1918-09-14T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q5715556,Bank of Central America,1952-01-01T00:00:00Z
 Q16492577,El Periódico,1996-11-06T00:00:00Z
@@ -25677,7 +25618,6 @@ Q62273613,Pinulito,
 Q1384387,La Hora,1920-06-19T00:00:00Z
 Q62273652,Pollo Granjero Guatemala,
 Q3402308,Prensa Libre,1951-01-01T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q5352248,El Tiempo,
 Q99196579,BANPAIS,
@@ -25686,7 +25626,6 @@ Q62595229,Punto Farma,
 Q5965374,La Tribuna,1976-12-09T00:00:00Z
 Q3211908,La Prensa,1964-10-26T00:00:00Z
 Q5886178,Ficohsa,
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q6041601,Instituto Tecnológico de Santo Domingo,1972-10-09T00:00:00Z
 Q15993838,EGE Haina,1999-10-28T00:00:00Z
@@ -25697,7 +25636,6 @@ Q29515996,Amanera,2015-01-01T00:00:00Z
 Q7950772,WIND Telecom,2008-01-01T00:00:00Z
 Q5719051,Banesco Multiple Bank,
 Q16489455,Banco Popular Dominicano,
-id,name,start_date
 Q17061030,Jumia,2012-01-01T00:00:00Z
 Q7817,World Health Organization,1948-04-07T00:00:00Z
 Q1935533,Millie's Cookies,1985-01-01T00:00:00Z
@@ -25896,7 +25834,6 @@ Q110488009,Nefertiti Hotel,
 Q111522985,Misr Hotel,
 Q110552722,Steigenberger Nile Palace,
 Q63985038,Paradise Inn Metropole Hotel,
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q5717833,Banco Agricola,
 Q62108397,Farmacias Económicas,
@@ -25906,7 +25843,6 @@ Q16492368,El Mundo,1967-02-06T00:00:00Z
 Q110060982,Gunstone Studios,2018-01-01T00:00:00Z
 Q3049831,El Diario de Hoy,1936-01-01T00:00:00Z
 Q107120814,Dollar City,2010-01-01T00:00:00Z
-id,name,start_date
 Q111098404,digifile.shop,2021-10-08T00:00:00Z
 Q56887628,Eghtesad Online,2010-01-01T00:00:00Z
 Q111647270,Avaye Shabahang Records,2004-03-02T00:00:00Z
@@ -25983,7 +25919,6 @@ Q5687097,Dadash Baradar Food Company,
 Q4855942,Bank Maskan,1979-01-01T00:00:00Z
 Q806640,Bank Melli Iran,1928-09-08T00:00:00Z
 Q6445552,Shatel,1999-01-01T00:00:00Z
-id,name,start_date
 Q3666590,Hawler Medical University,2005-01-01T00:00:00Z
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q550376,University of Baghdad,1957-08-21T00:00:00Z
@@ -26002,7 +25937,6 @@ Q3668446,University of Kurdistan – Hawler,2006-01-01T00:00:00Z
 Q8064821,Zain Iraq,2007-12-01T00:00:00Z
 Q310842,Al-Mustansiriya University,1227-01-01T00:00:00Z
 Q7895102,University of Babylon,1991-01-01T00:00:00Z
-id,name,start_date
 Q57657934,Contec HealthCare,1988-01-01T00:00:00Z
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q5715556,Bank of Central America,1952-01-01T00:00:00Z
@@ -26021,7 +25955,6 @@ Q85862799,Fonotica,2004-06-07T00:00:00Z
 Q94114919,Constructora Meco,1977-01-01T00:00:00Z
 Q19382082,Musmanni,1929-01-01T00:00:00Z
 Q2917708,National Bank of Costa Rica,1914-11-09T00:00:00Z
-id,name,start_date
 Q25490608,Q25490608,2012-01-01T00:00:00Z
 Q30561822,Sella Meir Publishing,2013-01-01T00:00:00Z
 Q65252074,Q65252074,2000-01-01T00:00:00Z
@@ -26320,9 +26253,7 @@ Q30561822,Sella Meir Publishing,2014-01-01T00:00:00Z
 Q97207539,gnat,2016-01-01T00:00:00Z
 Q1566222,Hamodia,1950-01-01T00:00:00Z
 Q60642552,Wiliot,2017-01-01T00:00:00Z
-id,name,start_date
 Q102225773,SabaFon,2001-01-01T00:00:00Z
-id,name,start_date
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q74812978,DoubleTree by Hilton Hotel Aqaba,2011-01-01T00:00:00Z
 Q6411726,King Hussein Bin Talal Convention Centre Managed by Hilton,2005-01-01T00:00:00Z
@@ -26334,18 +26265,15 @@ Q824225,Royal Jordanian,1967-01-01T00:00:00Z
 Q4704674,Al Ra'i,1971-06-02T00:00:00Z
 Q7743519,The Jordan Times,1976-01-01T00:00:00Z
 Q4120390,Aramex,1982-01-01T00:00:00Z
-id,name,start_date
 Q421023,Organization of Ibero-American States,1949-01-01T00:00:00Z
 Q5715556,Bank of Central America,1952-01-01T00:00:00Z
 Q7896692,University of the Autonomous Regions of the Nicaraguan Caribbean Coast,1994-01-01T00:00:00Z
 Q495504,National Autonomous University of Nicaragua,1812-01-01T00:00:00Z
 Q5160091,Confidencial,1996-01-01T00:00:00Z
 Q3211909,La Prensa,1926-03-02T00:00:00Z
-id,name,start_date
 Q4739924,Amantaka,2009-01-01T00:00:00Z
 Q756172,Lao Airlines,1976-01-01T00:00:00Z
 Q114457330,Laotian Times,
-id,name,start_date
 Q6825178,Hilton Beirut Metropolitan Palace,
 Q113027105,Dār al-Muḥajjah al-Bayḍāʼ,1990-01-01T00:00:00Z
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
@@ -26366,7 +26294,6 @@ Q64729624,Dar Sader Publishers,1863-01-01T00:00:00Z
 Q104092039,Global Vision Design & Production,2005-01-01T00:00:00Z
 Q79893814,Al Hadatha,1993-09-21T00:00:00Z
 Q12211270,Dār al-Mashriq,1982-01-01T00:00:00Z
-id,name,start_date
 Q17103499,MedicAlert,1956-01-01T00:00:00Z
 Q113021615,Bimasakti Records,2020-01-01T00:00:00Z
 Q308952,Malaysia Airlines,1972-09-30T00:00:00Z
@@ -26621,7 +26548,6 @@ Q20715991,MyHSR Corp,
 Q106420998,Q106420998,2017-10-26T00:00:00Z
 Q96102845,New Dawn Hotel,
 Q113597098,Q113597098,
-id,name,start_date
 Q24035912,Ooredoo Myanmar,2013-01-01T00:00:00Z
 Q1141636,Myanma Airways,1989-04-01T00:00:00Z
 Q24035910,Telenor Myanmar,2013-02-01T00:00:00Z
@@ -26633,7 +26559,6 @@ Q2945963,Golden Myanmar Airlines,2012-01-01T00:00:00Z
 Q18150728,Firebase,2011-01-01T00:00:00Z
 Q105548053,Myanmar Now,2015-01-01T00:00:00Z
 Q73879785,Hilton Mandalay,2017-01-01T00:00:00Z
-id,name,start_date
 Q13186934,Citizens Bank International,2007-01-01T00:00:00Z
 Q13179656,Ncell,2004-01-01T00:00:00Z
 Q5324409,eSewa,
@@ -26647,14 +26572,12 @@ Q13179664,NMB Bank Nepal,2008-01-01T00:00:00Z
 Q58478566,FinePrint,
 Q13180801,Global IME Bank,2007-01-01T00:00:00Z
 Q25350848,KIEC,2006-09-19T00:00:00Z
-id,name,start_date
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q2843943,Amouage,1983-01-01T00:00:00Z
 Q1808326,Sultan Qaboos University,1986-01-01T00:00:00Z
 Q860379,Oman Air,1993-01-01T00:00:00Z
 Q105581055,Vision Insurance SAOG,2007-09-01T00:00:00Z
 Q86499251,Concept Technologies LLC,
-id,name,start_date
 Q7895663,University of Management and Technology,1990-01-01T00:00:00Z
 Q1549932,University of the Punjab,1882-01-01T00:00:00Z
 Q5437851,Fatima Jinnah Women University,1998-01-01T00:00:00Z
@@ -26723,7 +26646,6 @@ Q4842499,Bahauddin Zakariya University,1975-01-01T00:00:00Z
 Q6846373,Zarb-e-Momin,
 Q4807137,Askari Bank,1991-01-01T00:00:00Z
 Q7895024,University of Agriculture Faisalabad,1906-01-01T00:00:00Z
-id,name,start_date
 Q13473,beIN SPORTS,2003-01-01T00:00:00Z
 Q82707520,Mulberry Tavern,
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
@@ -26743,7 +26665,6 @@ Q27991307,HBKU Press,
 Q67913420,Hilton Doha The Pearl Hotel & Residences,
 Q18346281,Qatar Islamic Bank,1982-01-01T00:00:00Z
 Q67570178,Qproperties,2019-01-01T00:00:00Z
-id,name,start_date
 Q12199341,Bank Aljazira,1975-06-21T00:00:00Z
 Q20401373,Saudi Marketing Co.,1978-12-02T00:00:00Z
 Q20403318,Al Hassan Ghazi Ibrahim Shaker Co.,1994-04-03T00:00:00Z
@@ -26899,7 +26820,6 @@ Q1189080,Nas Air,2006-01-01T00:00:00Z
 Q20403488,Buruj Cooperative Insurance Co.,2009-12-27T00:00:00Z
 Q27048574,Waldorf Astoria Jeddah - Qasr Al Sharq,
 Q114678764,Maeen Network,
-id,name,start_date
 Q30174421,Hilton Colombo Residences,2000-08-01T00:00:00Z
 Q109571008,L B Finance,1971-01-01T00:00:00Z
 Q108406108,Adds.lk Private Limited,2014-01-01T00:00:00Z
@@ -26929,13 +26849,11 @@ Q5152468,Commercial Bank of Ceylon,1920-01-01T00:00:00Z
 Q54980254,Amanwella,2005-01-01T00:00:00Z
 Q3534875,University of Colombo School of Computing,2002-01-01T00:00:00Z
 Q67161782,Motion Miracles,
-id,name,start_date
 Q6718487,MTN Syria,
 Q3270934,Cham Wings Airlines,2007-01-01T00:00:00Z
 Q1584130,Syriatel,2000-01-01T00:00:00Z
 Q112628059,Dar al-hiwar,1982-01-01T00:00:00Z
 Q63392,Syrian Arab News Agency,1965-06-24T00:00:00Z
-id,name,start_date
 Q4215912,Cheng Shin Rubber,1967-01-01T00:00:00Z
 Q16929266,Q16929266,2014-03-02T00:00:00Z
 Q108204957,Emperor Foods,
@@ -27232,7 +27150,6 @@ Q1101155,Elitegroup Computer Systems,1987-01-01T00:00:00Z
 Q15942047,Fubon Life,1993-01-01T00:00:00Z
 Q697293,Taipei Fubon Bank,
 Q23304796,CreSpirit,
-id,name,start_date
 Q40736405,Nanyang,
 Q699142,Din Tai Fung,1991-05-07T00:00:00Z
 Q6583778,Matichon,
@@ -27342,10 +27259,8 @@ Q51684934,Blue Juice Guesthouse and Dive Centre,
 Q1318400,Thai Rath,1962-01-01T00:00:00Z
 Q12125952,Asia Atlantic Airlines,2012-01-01T00:00:00Z
 Q50675028,Pak-Up Hostel,
-id,name,start_date
 Q796158,Turkmenistan Airlines,1992-01-01T00:00:00Z
 Q857826,MTS Turkmenistan,1994-01-01T00:00:00Z
-id,name,start_date
 Q180432,Emirates,1985-01-01T00:00:00Z
 Q34204337,Waldorf Astoria Dubai Palm Jumeirah,2014-01-01T00:00:00Z
 Q5310498,Dubai Aerospace Enterprise,2006-01-01T00:00:00Z
@@ -27429,7 +27344,6 @@ Q4115940,Abu Dhabi Media,2007-01-01T00:00:00Z
 Q114877710,Dubai Investment Fund,2001-01-01T00:00:00Z
 Q114891288,Erem Business,2022-11-15T00:00:00Z
 Q4875753,Beach Rotana Abu Dhabi,
-id,name,start_date
 Q115012348,Seo Thành Công,2021-03-24T00:00:00Z
 Q55190480,CANIFA,1997-01-01T00:00:00Z
 Q106196496,Saigon Morin Hotel,1901-01-01T00:00:00Z
@@ -27477,7 +27391,6 @@ Q20984297,Sendo.vn,2012-01-01T00:00:00Z
 Q115054217,vay24h,2021-01-21T00:00:00Z
 Q60245505,WinMart,2014-11-20T00:00:00Z
 Q29946462,Savills Vietnam,1995-01-01T00:00:00Z
-id,name,start_date
 Q16180011,Bugs!,
 Q28048734,Around US Entertainment,2016-01-01T00:00:00Z
 Q105697039,SouthPAW Games,
@@ -27728,7 +27641,6 @@ Q489428,DSP Media,1991-10-01T00:00:00Z
 Q624291,Segye Ilbo,1989-01-01T00:00:00Z
 Q20394,Seoul Metro Corporation,1981-09-01T00:00:00Z
 Q55931,Hyundai Motor Company,1967-01-01T00:00:00Z
-id,name,start_date
 Q4849399,Bakhtar News Agency,1939-01-01T00:00:00Z
 Q63185661,Oxygen Film Studio,2014-01-01T00:00:00Z
 Q7728705,The Daily Outlook Afghanistan,2004-01-01T00:00:00Z
@@ -27736,7 +27648,6 @@ Q1156372,Da Afghanistan Bank,1939-01-01T00:00:00Z
 Q5679623,Q5679623,
 Q3370273,Daily Afghanistan,2006-01-01T00:00:00Z
 Q383046,Afghan Wireless,2002-01-01T00:00:00Z
-id,name,start_date
 Q61463454,Barcode Cafe,2013-07-09T00:00:00Z
 Q6304791,Jugantor,2000-02-01T00:00:00Z
 Q4732302,Alliance Française de Dhaka,1959-01-01T00:00:00Z
@@ -27787,12 +27698,10 @@ Q108559543,Wow Play TV,
 Q1586163,The Daily Star,1991-01-14T00:00:00Z
 Q30603693,Ecstasy,1997-01-01T00:00:00Z
 Q2156338,The Daily Prothom Alo,1998-11-04T00:00:00Z
-id,name,start_date
 Q30594734,National Bank of Agricultural Development,1981-01-01T00:00:00Z
 Q6743829,Moov Africa Malitel,
 Q2883022,Mali Development Bank,
 Q3355061,Orange Mali,2006-01-01T00:00:00Z
-id,name,start_date
 Q108057456,Puaz Wear,
 Q30271968,Zipline International,2011-01-01T00:00:00Z
 Q111903250,Puaz Music Group,2021-01-01T00:00:00Z
@@ -27817,7 +27726,6 @@ Q106957508,Kibo Peak Palace Hotel,2014-12-20T00:00:00Z
 Q6974322,NMB Bank Plc,1997-01-01T00:00:00Z
 Q54553825,DoubleTree by Hilton Hotel Dar es Salaam - Oyster Bay,
 Q7939274,Vodacom Tanzania,1999-01-01T00:00:00Z
-id,name,start_date
 Q2691308,Greenwich Pizza,1971-01-01T00:00:00Z
 Q62391438,Villarica Pawnshop,1954-05-01T00:00:00Z
 Q60741625,Potato Corner,1992-01-01T00:00:00Z
@@ -27949,7 +27857,6 @@ Q25212199,UMG Philippines,
 Q4739919,Amanpulo,1993-01-01T00:00:00Z
 Q54826455,LeapFroggr Inc.,
 Q62267166,Andok's,1985-12-01T00:00:00Z
-id,name,start_date
 Q2883413,National Agricultural Bank,1959-01-01T00:00:00Z
 Q2859329,Arab Tunisian Bank,1982-01-01T00:00:00Z
 Q112976504,Tunisair Handling,
@@ -27976,11 +27883,9 @@ Q96017301,Agil,1960-01-01T00:00:00Z
 Q3399820,Tunisian Post,1847-01-01T00:00:00Z
 Q12203388,Q12203388,2001-05-02T00:00:00Z
 Q3517415,Q3517415,1994-01-01T00:00:00Z
-id,name,start_date
 Q1877680,LUSAKA STOCK EXCHANGE,1993-01-01T00:00:00Z
 Q806694,Bank of Zambia,1964-01-01T00:00:00Z
 Q77418726,Hilton Garden Inn Lusaka Society Business Park,
-id,name,start_date
 Q581954,University of Zimbabwe,1952-01-01T00:00:00Z
 Q17103499,MedicAlert,1956-01-01T00:00:00Z
 Q16951392,Steward Bank,2009-01-01T00:00:00Z
@@ -27990,7 +27895,6 @@ Q60743252,Infrastructure Development Bank of Zimbabwe,2005-01-01T00:00:00Z
 Q4859966,Barclays Bank,1912-01-01T00:00:00Z
 Q4693887,Agricultural Development Bank of Zimbabwe,1999-01-01T00:00:00Z
 Q17107908,NMB Bank Limited,1992-01-01T00:00:00Z
-id,name,start_date
 Q102219475,Bernardi + Peschard Arquitectura,2000-01-01T00:00:00Z
 Q107051202,Dos Bocas Refinery,
 Q9089355,TracFone Wireless,1996-01-01T00:00:00Z
@@ -28246,7 +28150,6 @@ Q70961151,Ediciones Comité,2015-01-01T00:00:00Z
 Q4853573,BanRegio,1994-01-01T00:00:00Z
 Q5351735,El Palacio de Hierro,1891-01-01T00:00:00Z
 Q107867082,CONSEO,2015-08-14T00:00:00Z
-id,name,start_date
 Q7190735,Pick n Pay,1967-01-01T00:00:00Z
 Q4948910,Botswana Power Corporation,1970-01-01T00:00:00Z
 Q104866602,Sefalana,
@@ -28260,9 +28163,8 @@ Q18356125,Mascom,1998-01-01T00:00:00Z
 Q4948925,Botswana Telecommunications Corporation,1980-01-01T00:00:00Z
 Q56319592,Q56319592,
 Q4948874,BotswanaPost,1989-01-01T00:00:00Z
-id,name,start_date
 Q7370229,Rotana Hotels,1992-01-01T00:00:00Z
 Q106413558,Anti-Corruption Research Center,2017-04-01T00:00:00Z
 Q112685013,Strong2kin Moov,2018-01-23T00:00:00Z
 Q21178738,Equity Bank Congo,2005-01-01T00:00:00Z
-
+,,
