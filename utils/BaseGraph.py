@@ -1,8 +1,11 @@
 from neo4j import GraphDatabase
+import logging
 import networkx as nx
 import pickle
 import pandas as pd
 import numpy as np
+from neo4j.exceptions import Neo4jError
+
 
 class BaseGraph(nx.MultiDiGraph):
 	'''
@@ -14,19 +17,18 @@ class BaseGraph(nx.MultiDiGraph):
 		super(BaseGraph, self).__init__(*args, **kwargs)
 		self.driver = None
 
-	def connect_to_neo(self, conn_dic:dict,
-		encrypted_bool:bool = False) -> None:
+	def connect_to_neo(self, conn_dic:dict):
 
 		from neo4j import GraphDatabase
 		uri = conn_dic['url']
-		port = conn_dic['port']
+		# port = conn_dic['port']
 		user = conn_dic['user']
 		password = conn_dic['password']
-		self.driver = GraphDatabase.driver(uri+':'+port,
-			auth=(user, password), encrypted=encrypted_bool)
+		#self.driver = GraphDatabase.driver(uri+':'+port,auth=(user, password), encrypted=encrypted_bool)
+		self.driver = GraphDatabase.driver(uri, auth=(user, password))
 		#test
 		self.pull_from_neo("Match () Return 1 Limit 1")
-		print('Connection Succesful')
+		print('Connection Successful')
 
 	@property #makes sense!
 	def adjacency_matrix(self):
