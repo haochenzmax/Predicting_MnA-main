@@ -1,1 +1,2 @@
-""
+,company.type,company.value,owner.type,owner.value,acquiredate.datatype,acquiredate.type,acquiredate.value
+0,uri,http://www.wikidata.org/entity/Q110399491,uri,http://www.wikidata.org/entity/Q28056752,http://www.w3.org/2001/XMLSchema#dateTime,literal,2014-01-01T00:00:00Z

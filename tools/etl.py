@@ -6,7 +6,7 @@ from os import listdir
 import sys
 sys.path.insert(0, '../configs/')
 from etl_config import *
-from sparql_config import ENTITY_PATH, EDGE_PATH, COUNTRIES
+from sparql_config_etl import ENTITY_PATH, EDGE_PATH, COUNTRIES
 
 THREAD_COUNT = 100
 

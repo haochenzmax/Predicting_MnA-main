@@ -1,4 +1,0 @@
-,business.type,business.value,businessLabel.xml:lang,businessLabel.type,businessLabel.value,origindate.datatype,origindate.type,origindate.value,country.type,country.value,industries.type,industries.value,ceos.type,ceos.value,chairs.type,chairs.value,hqs.type,hqs.value,groups.type,groups.value,country
-0,uri,http://www.wikidata.org/entity/Q4739924,en,literal,Amantaka,http://www.w3.org/2001/XMLSchema#dateTime,literal,2009-01-01T00:00:00Z,uri,http://www.wikidata.org/entity/Q819,literal,,literal,,literal,,literal,,literal,,wd:Q819
-1,uri,http://www.wikidata.org/entity/Q756172,en,literal,Lao Airlines,http://www.w3.org/2001/XMLSchema#dateTime,literal,1976-01-01T00:00:00Z,uri,http://www.wikidata.org/entity/Q819,literal,,literal,,literal,,literal,http://www.wikidata.org/entity/Q9326,literal,,wd:Q819
-2,uri,http://www.wikidata.org/entity/Q114457330,en,literal,Laotian Times,,,,uri,http://www.wikidata.org/entity/Q819,literal,,literal,,literal,,literal,,literal,,wd:Q819
