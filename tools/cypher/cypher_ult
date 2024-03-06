@@ -6,7 +6,7 @@ CREATE INDEX property_index
 FOR (n:Tmp)
 ON (n.id);
 
-LOAD CSV WITH HEADERS FROM "http://localhost:11001/project-3aa654ee-04b1-4dde-ac3a-8cc527592664/Q30.csv" AS line
+LOAD CSV WITH HEADERS FROM "http://localhost:11001/project-3aa654ee-04b1-4dde-ac3a-8cc527592664/Q30_entity.csv" AS line
 MERGE (n:Company {id: line.id})
 SET n.name=line.name,
 n.start_date=line.start_date
